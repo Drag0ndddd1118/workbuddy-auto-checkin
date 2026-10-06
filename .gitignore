@@ -1,0 +1,16 @@
+# 账号凭据与敏感数据（严禁提交）
+accounts.json
+*.key
+*.token
+*.env
+.env*
+
+# 日志与临时文件
+logs/
+*.log
+npm-debug.log*
+
+# 依赖与系统缓存
+node_modules/
+.DS_Store
+Thumbs.db

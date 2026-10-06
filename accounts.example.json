@@ -1,0 +1,14 @@
+[
+  {
+    "name": "我的主账号",
+    "token": "在此粘贴你的 Bearer Access Token",
+    "uid": "在此填入你的用户 UID (例如: e133832a-1e29-4ad4-9d6f-8a618b7c43af)",
+    "domain": "www.codebuddy.cn"
+  },
+  {
+    "name": "小号2",
+    "token": "eyJhbGciOi...",
+    "uid": "696b0871-ba15-4154-9054-88b3082131a4",
+    "domain": "www.codebuddy.cn"
+  }
+]

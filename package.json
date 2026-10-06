@@ -1,0 +1,22 @@
+{
+  "name": "workbuddy-auto-checkin",
+  "version": "1.0.0",
+  "description": "腾讯 WorkBuddy (代码助手) 多账号每日自动签到、积分查询与通知工具，支持 macOS / Windows / Linux 与 GitHub Actions 云端运行，零第三方依赖开箱即用。",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "check": "node src/index.js --check-only"
+  },
+  "keywords": [
+    "workbuddy",
+    "codebuddy",
+    "auto-checkin",
+    "tencent-cloud",
+    "github-actions"
+  ],
+  "author": "Drag0ndddd1118",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
